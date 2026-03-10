@@ -152,7 +152,7 @@ These customer segments show elevated churn, possibly due to higher expectations
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/AI_ML_Internship_p-2.git
+git clone https://github.com/Z0HAA/AI_ML_Internship_p-2.git
 cd AI_ML_Internship_p-2/Task_2_Telco_Churn_Pipeline
 ```
 
